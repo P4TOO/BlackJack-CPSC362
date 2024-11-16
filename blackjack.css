@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url(backgrounds/Nm8K9aK.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+#dealer-cards img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+}
+
+#your-cards img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    margin: 4px;
+}
+
+/* #hit{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
+
+#stay{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+} */
+
+#return{
+    display: block;
+    object-position: left top;
+}
+
+#newGame{
+    display: block;
+    object-position: left top;
+}
+
